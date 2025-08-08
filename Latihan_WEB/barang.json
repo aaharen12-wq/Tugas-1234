@@ -1,0 +1,38 @@
+[
+    {
+        "kode": "53",
+        "nama": "dghes",
+        "harga": "5464",
+        "stok": "2"
+    },
+    {
+        "kode": "2345",
+        "nama": "batre",
+        "harga": "43",
+        "stok": "43"
+    },
+    {
+        "kode": "123",
+        "nama": "opo",
+        "harga": "123",
+        "stok": "12"
+    },
+    {
+        "kode": "19231950",
+        "nama": "Siti Fatimah",
+        "harga": "76",
+        "stok": "76"
+    },
+    {
+        "kode": "454354343",
+        "nama": "Adinda putri ",
+        "harga": "32121",
+        "stok": "32121"
+    },
+    {
+        "kode": "454545",
+        "nama": "Siti Fatimah",
+        "harga": "54",
+        "stok": "54"
+    }
+]
